@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @radevpro
-- 👀 I’m interested in running android in linux and web development
-- 🌱 I’m currently learning anbox and web development especially PHP and Laravel
-- 💞️ I’m looking to collaborate on access many android application from anbox, and creating web application
+- 👋 Hi, I’m Rahma
+- 👀 I’m interested in running in linux and web development
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to deep learning flutter and the device accesibility 
 - 📫 How to reach me radevpro@gmail.com...
 
 <!---
